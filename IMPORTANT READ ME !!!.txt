@@ -1,0 +1,6 @@
+This project was created by = " Mechatronics Engineer-Mustafa Çoruh" 14.12.2020  Sakarya/Turkey
+
+
+ON THIS TFT LCD : if you want to show a constantly changing data on the this LCD (Heat,Count vb.), You sould be careful because, overwrites old data with new data...
+for this Reason, you have to make background only for place that what are the value..And this background same should be main background..You can use fillrectangle for
+ over variable value and write again sensor or heat etc.  code . And finish
